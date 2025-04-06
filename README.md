@@ -1,7 +1,3 @@
-Here’s a descriptive **README** focused on the dataset, insights derived, and strategic recommendations for future business decisions, without referring to specific questions or coding tasks.
-
----
-
 ## 📁 Retail Campaign Analytics — README
 
 ### 📂 Dataset Overview
