@@ -1,4 +1,4 @@
-## 📁 Retail Campaign Analytics — README
+## 📁 Retail Campaign Analytics 
 
 ### 📂 Dataset Overview
 
