@@ -69,6 +69,3 @@ This project leverages a collection of retail datasets designed to evaluate camp
 - **Long-Term Retention Strategy**:
   - Create loyalty programs to convert promo-based buyers into regular customers, reducing revenue dips post-campaigns.
 
----
-
-Let me know if you'd like this README saved as a `.md` file or included in a Jupyter Notebook summary cell.
